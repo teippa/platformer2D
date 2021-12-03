@@ -3,7 +3,7 @@
 A project for Fundamentals of Game Development course.
 
 Platformer2D was a test project that accidentally expanded to the whole game.
-Was not sure if changing the project name would affect anything so I lef it alone.
+Was not sure if changing the project name would affect anything so I left it alone.
 
 ## Link for the deployed game:
 
